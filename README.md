@@ -151,3 +151,5 @@ def log_likelihood_function(probability):
 ![x1x3](https://user-images.githubusercontent.com/62092317/106404271-a78e3c80-6475-11eb-91c3-82b847a8d40e.PNG)
 ![x2x3](https://user-images.githubusercontent.com/62092317/106404273-a826d300-6475-11eb-90a2-f6cd50a7b3ef.PNG)
 ![x1x2](https://user-images.githubusercontent.com/62092317/106404275-a8bf6980-6475-11eb-9ab8-2b1bea2b4637.PNG)
+
+## Prob 1_(c)~(f) Read detail answers in 

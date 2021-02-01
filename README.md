@@ -142,4 +142,7 @@ def log_likelihood_function(probability):
 ------------------------------------------------------------------------------------------------------------------------
 
 ## Prob 1
-
+![Problem_1](https://user-images.githubusercontent.com/62092317/106403896-14a0d280-6474-11eb-9f7a-454ba6ead024.PNG)
+![x1](https://user-images.githubusercontent.com/62092317/106403931-38fcaf00-6474-11eb-82f8-708f222ecb5c.PNG)
+![x2](https://user-images.githubusercontent.com/62092317/106403937-3b5f0900-6474-11eb-95a4-90c918b86451.PNG)
+![x3](https://user-images.githubusercontent.com/62092317/106403941-3d28cc80-6474-11eb-88a6-db9c3bf2ad5f.PNG)

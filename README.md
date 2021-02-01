@@ -153,4 +153,4 @@ def log_likelihood_function(probability):
 ![x2x3](https://user-images.githubusercontent.com/62092317/106404273-a826d300-6475-11eb-90a2-f6cd50a7b3ef.PNG)
 ![x1x2](https://user-images.githubusercontent.com/62092317/106404275-a8bf6980-6475-11eb-9ab8-2b1bea2b4637.PNG)
 
-## Prob 1_(c)~(f) Read detail answers in [HERE](https://github.com/SeongSuKim95/Maximum_Liklihood_Estimation/blob/master/Maximum_Liklihood_Estimation.pdf)
+## Prob 1_(c)~(f) Read detail answers in [HERE](https://github.com/SeongSuKim95/Maximum_Liklihood_Estimation/blob/master/Computer_exercise_details.pdf)

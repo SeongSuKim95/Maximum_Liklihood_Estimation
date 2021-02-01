@@ -1,4 +1,5 @@
-# Pattern Recognition Computer Exercise
+# Pattern Classification Computer Exercise
+This repository is python code of **"Pattern classification, Richard.O.Duda"** Computer Exercise Prob #1 in CHAPTER 3
 ## Maximum Liklihood Estimation of multi dimension Gaussian model data
 
 
